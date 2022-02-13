@@ -1,1 +1,1 @@
-# starship
+# starship prompt config
